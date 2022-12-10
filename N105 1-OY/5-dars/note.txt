@@ -1,0 +1,10 @@
+* => html ni ichidagi barcha elementlar
+display: flex; => qaysi elementga berilsa o'zini ichidagi elementlarni yonma yon qiladi
+align-items => qaysi elementga berilsa o'zini ichidagi elementlarni vertical (y) joylashtiradi
+[center, flex-start, flex-end]
+justify-content => qaysi elementga berilsa o'zini ichidagi elementlarni horizontal (x) joylashtiradi yoki orasini ochadi
+[center, flex-start, flex-end, space-between, space-evenly, space-around] 
+flex-wrap => sig'magan elementlarni pastga tushirib yuboradi otasini ichidagi
+flex-directtion => display flex yonma yon qilsa bu ustma ust qiladi
+outline => input ni tashqi chizig'ichidagi
+semantic tags => nav, header, aside, footer, main, article, section

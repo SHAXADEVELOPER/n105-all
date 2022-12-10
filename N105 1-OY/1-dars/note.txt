@@ -1,0 +1,18 @@
+<> => kelgan elementlar => TEG => TAG
+="" => attribute
+<!DOCTYPE html> => bu teg emas
+
+p => paragraph => oddiy text
+h => heading => sarlavha
+1 => razmer
+code => kod bo'lagi
+mark => belgi => sariq text
+u => underlaine => ostiki chiziq
+br => break => sindirish, to'xtatish
+small => kichik text uchun => 13.333...px
+sup => darajaga yozish uchun
+sub => index ga yozish uchun
+https://www.ginifab.com/symbols/html_symbol_entities_math.html
+ctrl / comment ga olish uchun
+b => bold => qalin
+strong => kuchli => qalin

@@ -1,0 +1,18 @@
+color => rang => faqat text ni rangi
+background-color => orqa fon rangi => faqat orqa fonni rangi
+font-size => shriftni o'lchami
+font-weight => shriftni qalinligi
+font-style => yozuvni holatini o'zgartiradi oddiy || yotiq
+text-decoration => yozuvni tagiga chiziq chiqarish yoki uni yoqotish underline || overline || line-through
+text-decoration-style => chiziq ni turi dashed || dotted || wavy || double
+text-decoration-color => chiziq ni rangini bildiradi
+text-transform => yozuvni harflarini turi uppercase || lowercase | capitalize
+rgb => red green blue
+#24fa12 => hex 16 lik sanoq tizimi
+font-family => shriftni turlari san-serif || monosspace | fantasy
+letter-spacing => harflarni orasi qancha bo'lishi
+word-spacing => so'zlarni orasi qancha bo'lishi
+line-height => textni qatorlarini orasini o'zgartiradi
+https://www.cssgradient.io/
+https:/www.figma.com
+list-style => ul || ol ni nuqtalarini turi

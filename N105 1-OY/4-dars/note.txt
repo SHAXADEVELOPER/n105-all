@@ -1,0 +1,7 @@
+internal => <style></style>
+inline  => style=""
+external => <link>
+span => bu oddiy text
+inline => faqat o'zi uchun kerakli joyni egallidi ( span, button, strong )
+block => o'zini qatorini to'liq egallidi ( p, h1, div )
+div => division => bo'lak

@@ -1,0 +1,14 @@
+ul => unordered list => tartibsiz ro'yxat
+ol => ordered list => tartiblangan ro'yxat
+li => list item => ro'yxat element
+img => image => rasm
+width => uzunlik
+height => balandlik
+src => rasm manbaasi
+alt => alternative => muqobil yani ko'zi ochizlar uchun va rasm yaxshi yuklanmasa
+q => quote => qo'shtirnoq
+blockquote => kimnidir jumlasini ishlatish uchun
+mailto => email ochib beradi
+tel : telefonnni ochib beradi
+time => vaqtlar va chislo uchuna
+address => manzil uchun

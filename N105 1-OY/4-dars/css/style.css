@@ -1,0 +1,101 @@
+/* .main-heading{
+  color: green;
+}
+
+.btn{
+  border-radius: 5px;
+  border: none;
+  border: 3px solid red;
+  background-color: dodgerblue;
+}
+
+.span-text{
+  background-color: green;
+}
+
+.p-text{
+  background-color: gold;
+}
+
+p{
+  color: green;
+  background-color: red;
+}
+
+.p1{
+  color: gold;
+  background-color: aqua;
+}
+
+ul, ol{
+  list-style-type: none;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+}
+
+.box{
+  width: 1200px;
+  height: 200px;
+  background-color: blueviolet;
+}
+
+.child{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+} */
+
+p, h2{
+  margin: 0;
+}
+
+.parent{
+  max-width: 1300px;
+  height: 300px;
+  background-color: #F1F1F1;
+  /* text-align: center; */
+  /* second way */
+  display: flex;
+  gap: 0 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.child{
+  width: 300px;
+  min-height: 250px;
+  height: auto;
+  background-color: #fff;
+  border-radius: 10px;
+  border: 1px solid #acacac;
+  font-family: sans-serif;
+  /* first way */
+  /* display: inline-block;
+  margin-top: 25px; */
+}
+
+.child > h2{
+  font-size: 37px;
+  font-weight: 300;
+  text-transform: capitalize;
+  margin: 20px;
+}
+
+.child > p{
+  color: gray;
+  font-size: 20px;
+  margin: 20px;
+}
+
+.child > a{
+  display: inline-block;
+  padding: 10px 12px;
+  color: #fff;
+  text-transform: uppercase;
+  margin: 0 0 20px 20px;
+  text-decoration: none;
+  background-color: dodgerblue;
+}
